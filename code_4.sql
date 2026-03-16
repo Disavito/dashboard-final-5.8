@@ -1,0 +1,1 @@
+constraint socio_documentos_socio_id_tipo_documento_key unique (socio_id, tipo_documento),
